@@ -1,0 +1,2464 @@
+{
+  "totalItems": 389, 
+  "endIndex": 50, 
+  "startIndex": 1, 
+  "itemsPerPage": 20, 
+  "items": [
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1991, 
+      "publisher": "Oakland Tribune", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92061850.json", 
+      "id": "/lccn/sn92061850/", 
+      "subject": [
+        "Alameda County (Calif.)--Newspapers.", 
+        "California--Alameda County.--fast--(OCoLC)fst01205577", 
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland tribune.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original", 
+        "Original", 
+        "Unspecified", 
+        "Online Resource", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Master", 
+        "Unspecified"
+      ], 
+      "end_year": 2016, 
+      "alt_title": [], 
+      "note": [
+        "Master negatives are available for duplication from:", 
+        "Merged with: Contra Costa Times, Argus and the Daily Review to form: East Bay times.", 
+        "Special sample ed., Feb. 26, 1991."
+      ], 
+      "lccn": "sn92061850", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland tribune.", 
+      "oclc": "23907014"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland University, Rochester, MI", 
+      "start_year": 1975, 
+      "publisher": "[Oakland University]", 
+      "county": [
+        "Oakland"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly (during academic year)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn97066518.json", 
+      "id": "/lccn/sn97066518/", 
+      "subject": [
+        "Michigan--Rochester.--fast--(OCoLC)fst01219845", 
+        "Rochester (Mich.)--Newspapers."
+      ], 
+      "city": [
+        "Rochester"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland sail.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1990, 
+      "alt_title": [], 
+      "note": [
+        "\"College student newspapers.\"", 
+        "Description based on: Vol. 6, no. 29 (Apr. 13, 1981)."
+      ], 
+      "lccn": "sn97066518", 
+      "state": [
+        "Michigan"
+      ], 
+      "place": [
+        "Michigan--Oakland--Rochester"
+      ], 
+      "country": "Michigan", 
+      "type": "title", 
+      "title_normal": "oakland sail.", 
+      "oclc": "36523737"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, CA", 
+      "start_year": 1994, 
+      "publisher": "Alameda Pub. Corp.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": "Bilingual ed. of the Oakland Post.", 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn96061866.json", 
+      "id": "/lccn/sn96061866/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "Hispanic Americans--California--Newspapers.", 
+        "Hispanic Americans.--fast--(OCoLC)fst00957523", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "Spanish"
+      ], 
+      "title": "Oakland post el mundo.", 
+      "holding_type": [
+        "Unspecified", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1996, 
+      "alt_title": [
+        "Daily Oakland post el mundo", 
+        "Mundo"
+      ], 
+      "note": [
+        "Master negatives are available for duplication from:", 
+        "Spanish and English."
+      ], 
+      "lccn": "sn96061866", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland post el mundo.", 
+      "oclc": "32618685"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal.", 
+      "start_year": 1900, 
+      "publisher": "Oakland Transcript Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94051409.json", 
+      "id": "/lccn/sn94051409/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland transcript.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 1, no. 5 (Apr. 26, 1900)."
+      ], 
+      "lccn": "sn94051409", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland transcript.", 
+      "oclc": "30211685"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal", 
+      "start_year": 1800, 
+      "publisher": "Oakland Echoes Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94052915.json", 
+      "id": "/lccn/sn94052915/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland echoes.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: 11th year, no. 549 (Feb. 13, 1897)."
+      ], 
+      "lccn": "sn94052915", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland echoes.", 
+      "oclc": "31184988"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1903, 
+      "publisher": "Oakland Herald Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn87067082.json", 
+      "id": "/lccn/sn87067082/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland herald.", 
+      "holding_type": [
+        "Original", 
+        "Original", 
+        "Original", 
+        "Unspecified", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1907, 
+      "alt_title": [], 
+      "note": [
+        "Numbering is irregular."
+      ], 
+      "lccn": "sn87067082", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland herald.", 
+      "oclc": "15200481"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Kan.", 
+      "start_year": 1890, 
+      "publisher": "Oakland News Co., et. al.", 
+      "county": [
+        "Shawnee"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn85067016.json", 
+      "id": "/lccn/sn85067016/", 
+      "subject": [], 
+      "city": [
+        "Topeka"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland news.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original"
+      ], 
+      "end_year": 1892, 
+      "alt_title": [], 
+      "note": [
+        "\"Republican.\"", 
+        "Published by Daniels & Hornaday, Nov. 6, 1891-May 7, 1892."
+      ], 
+      "lccn": "sn85067016", 
+      "state": [
+        "Kansas"
+      ], 
+      "place": [
+        "Kansas--Shawnee--Topeka"
+      ], 
+      "country": "Kansas", 
+      "type": "title", 
+      "title_normal": "oakland news.", 
+      "oclc": "12794790"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1900, 
+      "publisher": "Jewish Organizations of Oakland, Cal.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Semimonthly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn99060615.json", 
+      "id": "/lccn/sn99060615/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Jewish newspapers--California--Oakland.", 
+        "Jewish newspapers.--fast--(OCoLC)fst00982872"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland community bulletin.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 10, no. 6 (Dec. 28, 1939)."
+      ], 
+      "lccn": "sn99060615", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland community bulletin.", 
+      "oclc": "41061367"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1903, 
+      "publisher": "Oakland Herald Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94085969.json", 
+      "id": "/lccn/sn94085969/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland herald. [microfilm reel]", 
+      "holding_type": [], 
+      "end_year": 1907, 
+      "alt_title": [], 
+      "note": [
+        "Microfilm.", 
+        "Numbering is irregular."
+      ], 
+      "lccn": "sn94085969", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland herald.", 
+      "oclc": "32267138"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Pontiac, Mich.", 
+      "start_year": 1972, 
+      "publisher": "Oakland Press Co.", 
+      "county": [
+        "Oakland"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn96077452.json", 
+      "id": "/lccn/sn96077452/", 
+      "subject": [
+        "Michigan--Oakland County.--fast--(OCoLC)fst01214740", 
+        "Michigan--Pontiac.--fast--(OCoLC)fst01215398", 
+        "Oakland County (Mich.)--Newspapers.", 
+        "Pontiac (Mich.)--Newspapers."
+      ], 
+      "city": [
+        "Pontiac"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland press.", 
+      "holding_type": [
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Unspecified", 
+        "Unspecified", 
+        "Original", 
+        "Original"
+      ], 
+      "end_year": 9999, 
+      "alt_title": [
+        "Sunday Oakland press"
+      ], 
+      "note": [
+        "Sunday ed. called: Sunday Oakland press."
+      ], 
+      "lccn": "sn96077452", 
+      "state": [
+        "Michigan"
+      ], 
+      "place": [
+        "Michigan--Oakland--Pontiac"
+      ], 
+      "country": "Michigan", 
+      "type": "title", 
+      "title_normal": "oakland press.", 
+      "oclc": "15217724"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Neb.", 
+      "start_year": 1907, 
+      "publisher": "Eric Morell", 
+      "county": [
+        "Burt"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn95070195.json", 
+      "id": "/lccn/sn95070195/", 
+      "subject": [
+        "Burt County (Neb.)--Newspapers.", 
+        "Nebraska--Burt County.--fast--(OCoLC)fst01212416", 
+        "Nebraska--Oakland.--fast--(OCoLC)fst01275063", 
+        "Oakland (Neb.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland independent and Republican.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1984, 
+      "alt_title": [
+        "Oakland independent"
+      ], 
+      "note": [
+        "Formed by the union of: Oakland independent (Oakland Neb.), and: Oakland Republican (Oakland, Neb.)."
+      ], 
+      "lccn": "sn95070195", 
+      "state": [
+        "Nebraska"
+      ], 
+      "place": [
+        "Nebraska--Burt--Oakland"
+      ], 
+      "country": "Nebraska", 
+      "type": "title", 
+      "title_normal": "oakland independent and republican.", 
+      "oclc": "32864485"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1885, 
+      "publisher": "Frank J. Moffit", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn84026878.json", 
+      "id": "/lccn/sn84026878/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland enquirer.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Original", 
+        "Original", 
+        "Original", 
+        "Original", 
+        "Original", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1921, 
+      "alt_title": [
+        "Oakland enquirer the Oakland independent"
+      ], 
+      "note": [
+        "\"The Oakland independent\" appears in small type below \"Oakland enquirer,\" Nov., 1885.", 
+        "Master negatives are available for duplication from:", 
+        "Morning ed.: Morning enquirer and the Oakland times.", 
+        "Weekly ed.: Oakland weekly enquirer, <1891>."
+      ], 
+      "lccn": "sn84026878", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland enquirer.", 
+      "oclc": "10786639"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland City, Ind.", 
+      "start_year": 1000, 
+      "publisher": "J.W. Cockrum Print. Co.", 
+      "county": [
+        "Gibson"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn84045485.json", 
+      "id": "/lccn/sn84045485/", 
+      "subject": [
+        "Gibson County (Ind.)--Newspapers.", 
+        "Indiana--Gibson County.--fast--(OCoLC)fst01204272", 
+        "Indiana--Oakland City.--fast--(OCoLC)fst01258584", 
+        "Oakland City (Ind.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland City"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland City journal.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Original", 
+        "Online Resource"
+      ], 
+      "end_year": 9999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 21, no. 50 (July 1, 1913); title from masthead.", 
+        "Latest issue consulted: Vol. 94, no. 13 (April 30, 1986); U.S. Newspaper Archive (viewed July 14, 2017)."
+      ], 
+      "lccn": "sn84045485", 
+      "state": [
+        "Indiana"
+      ], 
+      "place": [
+        "Indiana--Gibson--Oakland City"
+      ], 
+      "country": "Indiana", 
+      "type": "title", 
+      "title_normal": "oakland city journal.", 
+      "oclc": "11379058"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1970, 
+      "publisher": "Oakland Consolidated Chinese Association", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Monthly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn95062417.json", 
+      "id": "/lccn/sn95062417/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "Chinese newspapers--California.", 
+        "Chinese newspapers.--fast--(OCoLC)fst00857651", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "Chinese"
+      ], 
+      "title": "Wulun Hua ren zhi sheng = Voice of Oakland Chinese.", 
+      "holding_type": [], 
+      "end_year": 9999, 
+      "alt_title": [
+        "Voice of Oakland Chinese", 
+        "Wu lun Hua ren zhi sheng"
+      ], 
+      "note": [
+        "Description based on: Di 52 hao (1979 nian 4 yue 1 ri)."
+      ], 
+      "lccn": "sn95062417", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "wulun hua ren zhi sheng = voice of oakland chinese.", 
+      "oclc": "33502015"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Burt County, Neb.", 
+      "start_year": 1880, 
+      "publisher": "George W. Brewster", 
+      "county": [
+        "Burt"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn95070193.json", 
+      "id": "/lccn/sn95070193/", 
+      "subject": [
+        "Nebraska--Oakland.--fast--(OCoLC)fst01275063", 
+        "Oakland (Neb.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland independent.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microform", 
+        "Microform", 
+        "Microform", 
+        "Microform"
+      ], 
+      "end_year": 1907, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 2, no. 2 (Nov. 30, 1881).", 
+        "Merged with: Oakland Republican (Oakland, Neb.), to form: Oakland independent and Republican."
+      ], 
+      "lccn": "sn95070193", 
+      "state": [
+        "Nebraska"
+      ], 
+      "place": [
+        "Nebraska--Burt--Oakland"
+      ], 
+      "country": "Nebraska", 
+      "type": "title", 
+      "title_normal": "oakland independent.", 
+      "oclc": "32864451"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1979, 
+      "publisher": "A. Dolata", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn93052136.json", 
+      "id": "/lccn/sn93052136/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland tribune.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified"
+      ], 
+      "end_year": 1982, 
+      "alt_title": [
+        "Oakland tribune Sunday", 
+        "Oakland tribune/Eastbay today Saturday", 
+        "Oakland tribune/Eastbay today Sunday"
+      ], 
+      "note": [
+        "Morning ed.: Eastbay today.", 
+        "On Saturdays published as: Oakland tribune/Eastbay today Saturday.", 
+        "On Sundays published as: Oakland tribune Sunday, Nov. 5, 1979-Sept. 6, 1980; Oakland tribune/Eastbay today Sunday, Sept. 13, 1980-Oct. 22, 1982."
+      ], 
+      "lccn": "sn93052136", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland tribune.", 
+      "oclc": "29885135"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1885, 
+      "publisher": "F.A. Leach", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94085968.json", 
+      "id": "/lccn/sn94085968/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland enquirer. [microfilm reel]", 
+      "holding_type": [], 
+      "end_year": 1921, 
+      "alt_title": [], 
+      "note": [
+        "Microfilm.", 
+        "Morning ed.: Morning enquirer and the Oakland times.", 
+        "Weekly ed.: Oakland weekly enquirer, <1891>."
+      ], 
+      "lccn": "sn94085968", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland enquirer.", 
+      "oclc": "32260133"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Ill.", 
+      "start_year": 1800, 
+      "publisher": "W.W. McIntosh", 
+      "county": [
+        "Coles"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn90054026.json", 
+      "id": "/lccn/sn90054026/", 
+      "subject": [
+        "Illinois--Oakland.--fast--(OCoLC)fst01232972", 
+        "Oakland (Ill.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland messenger.", 
+      "holding_type": [
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [
+        "Messenger", 
+        "Oakland weekly messenger"
+      ], 
+      "note": [
+        "Daily ed.: Oakland daily messenger, <1900>.", 
+        "Description based on: Vol. 8, no. 36 (May 1, 1896).", 
+        "Latest issue consulted: Nov. 26, 1953.", 
+        "Merged with: Coles County ledger (Oakland, Ill. : 1919), to form: Ledger-messenger."
+      ], 
+      "lccn": "sn90054026", 
+      "state": [
+        "Illinois"
+      ], 
+      "place": [
+        "Illinois--Coles--Oakland"
+      ], 
+      "country": "Illinois", 
+      "type": "title", 
+      "title_normal": "oakland messenger.", 
+      "oclc": "21121950"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1891, 
+      "publisher": "Tribune Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn82014923.json", 
+      "id": "/lccn/sn82014923/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland tribune.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified", 
+        "Original", 
+        "Original", 
+        "Original", 
+        "Original", 
+        "Unspecified", 
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Print Master", 
+        "Unspecified", 
+        "Unspecified", 
+        "Microfilm Service Copy", 
+        "Online Resource"
+      ], 
+      "end_year": 1978, 
+      "alt_title": [
+        "Oakland Saturday tribune", 
+        "Oakland Sunday tribune", 
+        "Saturday Oakland tribune", 
+        "Sunday Oakland tribune"
+      ], 
+      "note": [
+        "\"Oakland\" appears above masthead ornament on Sundays, July 5, 1964-Feb. 2, 1975; on Saturdays, Mar. 15, 1969-Feb. 1, 1975.", 
+        "Also issued on microfilm from Bay Microfilm Inc.", 
+        "Master negatives are available for duplication from:", 
+        "On Saturdays published as: Oakland Saturday tribune, Mar. 15, 1969-Feb. 1, 1975.", 
+        "On Sundays published as: Oakland Sunday tribune, July 5, 1964-Feb. 9, 1975, Dec. 19, 1976-Sept. 10, 1978.", 
+        "Published in various editions: Alameda County ed., City ed., Contra Costa ed., Greater Oakland ed., Home ed., Southern Alameda County ed., Valley ed."
+      ], 
+      "lccn": "sn82014923", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland tribune.", 
+      "oclc": "8800374"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1875, 
+      "publisher": "B.A. Dewes", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn85025018.json", 
+      "id": "/lccn/sn85025018/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland daily evening tribune.", 
+      "holding_type": [
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1891, 
+      "alt_title": [
+        "Oakland evening tribune"
+      ], 
+      "note": [
+        "Published as: Oakland evening tribune, Oct. 28-Nov. 21, 1882."
+      ], 
+      "lccn": "sn85025018", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland daily evening tribune.", 
+      "oclc": "11546702"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal.", 
+      "start_year": 1874, 
+      "publisher": "Dewes & Staniford", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn93052133.json", 
+      "id": "/lccn/sn93052133/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland daily tribune.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1874, 
+      "alt_title": [
+        "Oakland daly tribune"
+      ], 
+      "note": [
+        "Issue for Feb. 21, 1874 published as: Oakland daly tribune."
+      ], 
+      "lccn": "sn93052133", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland daily tribune.", 
+      "oclc": "29885097"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal.", 
+      "start_year": 1885, 
+      "publisher": "Frank J. Moffitt", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Semiweekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94052965.json", 
+      "id": "/lccn/sn94052965/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland independent, the inquirer.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1885, 
+      "alt_title": [
+        "Oakland independent, the enquirer"
+      ], 
+      "note": [
+        "Published as: Oakland independent, the enquirer, <Sept. 19>-Oct 10, 1885."
+      ], 
+      "lccn": "sn94052965", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland independent, the inquirer.", 
+      "oclc": "31741893"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1913, 
+      "publisher": "[s.n.]", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94052981.json", 
+      "id": "/lccn/sn94052981/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Morning enquirer and the Oakland times.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [
+        "Morning enquirer and Oakland times", 
+        "Oakland enquirer and the morning times", 
+        "Oakland times"
+      ], 
+      "note": [
+        "Evening ed.: Oakland enquirer.", 
+        "Master negatives are available for duplication from:"
+      ], 
+      "lccn": "sn94052981", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "morning enquirer and the oakland times.", 
+      "oclc": "31884587"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Iowa", 
+      "start_year": 1881, 
+      "publisher": "W.C. Hills", 
+      "county": [
+        "Pottawattamie"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn87057626.json", 
+      "id": "/lccn/sn87057626/", 
+      "subject": [], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland acorn.", 
+      "holding_type": [
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1987, 
+      "alt_title": [
+        "Acorn", 
+        "Oakland daily acorn"
+      ], 
+      "note": [
+        "Description based on: Vol. 23, no. 5 (May 7, 1903).", 
+        "Published as: The Oakland daily acorn, <Sept. 2-4, 1903>.", 
+        "Publisher varies."
+      ], 
+      "lccn": "sn87057626", 
+      "state": [
+        "Iowa"
+      ], 
+      "place": [
+        "Iowa--Pottawattamie--Oakland"
+      ], 
+      "country": "Iowa", 
+      "type": "title", 
+      "title_normal": "oakland acorn.", 
+      "oclc": "16838618"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Ill.", 
+      "start_year": 1900, 
+      "publisher": "McIntosh [and] McKinley", 
+      "county": [
+        "Coles"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sunday)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn90054025.json", 
+      "id": "/lccn/sn90054025/", 
+      "subject": [
+        "Illinois--Oakland.--fast--(OCoLC)fst01232972", 
+        "Oakland (Ill.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland daily messenger.", 
+      "holding_type": [
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Latest issue consulted: Vol. 1, no. 48 (Nov. 10, 1900).", 
+        "Weekly ed.: Oakland messenger, <1900>"
+      ], 
+      "lccn": "sn90054025", 
+      "state": [
+        "Illinois"
+      ], 
+      "place": [
+        "Illinois--Coles--Oakland"
+      ], 
+      "country": "Illinois", 
+      "type": "title", 
+      "title_normal": "oakland daily messenger.", 
+      "oclc": "21122523"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1879, 
+      "publisher": "Tribune Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn93052135.json", 
+      "id": "/lccn/sn93052135/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland weekly tribune.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [
+        "Weekly Oakland tribune"
+      ], 
+      "note": [
+        "\"Oakland\" appears within masthead ornament.", 
+        "Description based on: Vol. 1, no. 3 (Aug. 30, 1879)."
+      ], 
+      "lccn": "sn93052135", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland weekly tribune.", 
+      "oclc": "29885106"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Burt County, Neb.", 
+      "start_year": 1894, 
+      "publisher": "E.E. Shackelford", 
+      "county": [
+        "Burt"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn95070194.json", 
+      "id": "/lccn/sn95070194/", 
+      "subject": [
+        "Nebraska--Oakland.--fast--(OCoLC)fst01275063", 
+        "Oakland (Neb.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland Republican. [microfilm reel]", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1907, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: [vol. 2], no. 7 (Oct. 24, 1895).", 
+        "Merged with: Oakland independent (Oakland, Neb.), to form: Oakland independent and Republican.", 
+        "Microfilm."
+      ], 
+      "lccn": "sn95070194", 
+      "state": [
+        "Nebraska"
+      ], 
+      "place": [
+        "Nebraska--Burt--Oakland"
+      ], 
+      "country": "Nebraska", 
+      "type": "title", 
+      "title_normal": "oakland republican.", 
+      "oclc": "32864560"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1891, 
+      "publisher": "Morning Times Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92069018.json", 
+      "id": "/lccn/sn92069018/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland morning times.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1893, 
+      "alt_title": [], 
+      "note": [
+        "Master negatives are available for duplication from:", 
+        "Published simultaneously with Morning times (Oakland, Calif.), Sept. 8, 1891-Jan. 20, 1892."
+      ], 
+      "lccn": "sn92069018", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland morning times.", 
+      "oclc": "27059731"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1891, 
+      "publisher": "Tribune Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn94085970.json", 
+      "id": "/lccn/sn94085970/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland tribune. [microfilm reel]", 
+      "holding_type": [], 
+      "end_year": 1978, 
+      "alt_title": [
+        "Oakland Saturday tribune", 
+        "Oakland Sunday tribune", 
+        "Saturday Oakland tribune", 
+        "Sunday Oakland tribune"
+      ], 
+      "note": [
+        "\"Oakland\" appears above masthead ornament on Sundays, July 5, 1964-Feb. 2, 1975; on Saturdays, Mar. 15, 1969-Feb. 1, 1975.", 
+        "Microfilm.", 
+        "On Saturdays published as: Oakland Saturday tribune, Mar. 15, 1969-Feb. 1, 1975.", 
+        "On Sundays published as: Oakland Sunday tribune, July 5, 1964-Feb. 9, 1975, Dec. 19, 1976-Sept. 10, 1978.", 
+        "Published in various editions: Alameda County ed., City ed., Contra Costa ed., Greater Oakland ed., Home ed., Southern Alameda County ed., Valley ed."
+      ], 
+      "lccn": "sn94085970", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland tribune.", 
+      "oclc": "32267158"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1922, 
+      "publisher": "Post-Enquirer Pub. Co.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn86071849.json", 
+      "id": "/lccn/sn86071849/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland post enquirer.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Original", 
+        "Original", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1950, 
+      "alt_title": [
+        "Post enquirer"
+      ], 
+      "note": [
+        "Also issued on microfilm from The Center for Research Libraries.", 
+        "Issues for Jan. 2, 1922-July 19, 1923 also called v. 5, no. 290-v. 7, no. 147 = v. 81, no. 1-v. 84, no. 15.", 
+        "Master negatives are available for duplication from:", 
+        "Merger of: Oakland daily post, and: Oakland enquirer.", 
+        "The word \"Oakland\" appears over the masthead ornament."
+      ], 
+      "lccn": "sn86071849", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland post enquirer.", 
+      "oclc": "14116842"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal.", 
+      "start_year": 1874, 
+      "publisher": "Dewes & Staniford", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily (except Sun.)", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn93054091.json", 
+      "id": "/lccn/sn93054091/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland evening tribune.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Original"
+      ], 
+      "end_year": 1875, 
+      "alt_title": [
+        "Daily evening tribune", 
+        "Oakland daily evening tribune", 
+        "Oakland daily tribune"
+      ], 
+      "note": [
+        "Description based on: Vol. 2, no. 75 (May 18, 1874).", 
+        "Published as: Oakland daily evening tribune, June 4-July 15, 1874."
+      ], 
+      "lccn": "sn93054091", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland evening tribune.", 
+      "oclc": "28680545"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Douglas County, Or.", 
+      "start_year": 1919, 
+      "publisher": "C.S. Shaw", 
+      "county": [
+        "Douglas"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn00063503.json", 
+      "id": "/lccn/sn00063503/", 
+      "subject": [
+        "Oakland (Or.)--Newspapers.", 
+        "Oregon--Oakland.--fast--(OCoLC)fst01223382"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland tribune.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1942, 
+      "alt_title": [], 
+      "note": [
+        "1928-1938 includes variously titled newspapers published during school terms by Oakland High School students.", 
+        "Also issued on microfilm from University of Oregon.", 
+        "Description based on: Vol. 28, no. 40 (Jan. 5, 1928).", 
+        "Newspaper suspended with July 31, 1942 issue.", 
+        "Some irregularities in numbering."
+      ], 
+      "lccn": "sn00063503", 
+      "state": [
+        "Oregon"
+      ], 
+      "place": [
+        "Oregon--Douglas--Oakland"
+      ], 
+      "country": "Oregon", 
+      "type": "title", 
+      "title_normal": "oakland tribune.", 
+      "oclc": "43291624"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Detroit [Mich.]", 
+      "start_year": 1969, 
+      "publisher": "Oakland Pub. Co.", 
+      "county": [
+        "Wayne"
+      ], 
+      "edition": null, 
+      "frequency": "Biweekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn97070519.json", 
+      "id": "/lccn/sn97070519/", 
+      "subject": [
+        "African Americans--Michigan--Detroit--Newspapers.", 
+        "African Americans.--fast--(OCoLC)fst00799558", 
+        "Detroit (Mich.)--Newspapers.", 
+        "Michigan--Detroit.--fast--(OCoLC)fst01205010", 
+        "Michigan--Wayne County.--fast--(OCoLC)fst01206628", 
+        "Wayne County (Mich.)--Newspapers."
+      ], 
+      "city": [
+        "Detroit"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland?.", 
+      "holding_type": [], 
+      "end_year": 1999, 
+      "alt_title": [
+        "Oakland lion"
+      ], 
+      "note": [
+        "\"Voice of Detroit's North End.\""
+      ], 
+      "lccn": "sn97070519", 
+      "state": [
+        "Michigan"
+      ], 
+      "place": [
+        "Michigan--Wayne--Detroit"
+      ], 
+      "country": "Michigan", 
+      "type": "title", 
+      "title_normal": "oakland?.", 
+      "oclc": "38479996"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Pittsburgh, Pa.", 
+      "start_year": 1988, 
+      "publisher": "Oakland Planning and Development Corp.", 
+      "county": [
+        "Allegheny", 
+        "Allegheny"
+      ], 
+      "edition": null, 
+      "frequency": "Monthly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn88080859.json", 
+      "id": "/lccn/sn88080859/", 
+      "subject": [], 
+      "city": [
+        "Oakland", 
+        "Pittsburgh"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland.", 
+      "holding_type": [
+        "Original", 
+        "Original"
+      ], 
+      "end_year": 9999, 
+      "alt_title": [], 
+      "note": [], 
+      "lccn": "sn88080859", 
+      "state": [
+        "Pennsylvania", 
+        "Pennsylvania"
+      ], 
+      "place": [
+        "Pennsylvania--Allegheny--Oakland", 
+        "Pennsylvania--Allegheny--Pittsburgh"
+      ], 
+      "country": "Pennsylvania", 
+      "type": "title", 
+      "title_normal": "oakland.", 
+      "oclc": "18309834"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1978, 
+      "publisher": "[Oakland Tribune]", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Daily", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn83000745.json", 
+      "id": "/lccn/sn83000745/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The tribune.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Microfilm Service Copy", 
+        "Original"
+      ], 
+      "end_year": 1979, 
+      "alt_title": [
+        "Sunday tribune"
+      ], 
+      "note": [
+        "\"Independent.\"", 
+        "On Sundays published as: Sunday tribune.", 
+        "Published in various editions: Contra Costa Tri-valley ed., Metro ed., South County ed., Southern Alameda County Contra Costa ed., Sunrise ed."
+      ], 
+      "lccn": "sn83000745", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "tribune.", 
+      "oclc": "9114130"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1996, 
+      "publisher": "Alameda Pub. Corp.", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": "Bilingual ed. of the Oakland post.", 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn97069121.json", 
+      "id": "/lccn/sn97069121/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "Hispanic Americans--California--Newspapers.", 
+        "Hispanic Americans.--fast--(OCoLC)fst00957523", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English", 
+        "Spanish"
+      ], 
+      "title": "El Mundo.", 
+      "holding_type": [
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified", 
+        "Microfilm Master", 
+        "Online Resource"
+      ], 
+      "end_year": 9999, 
+      "alt_title": [], 
+      "note": [
+        "Also issued by subscription via the World Wide Web.", 
+        "Master negatives are available for duplication from:", 
+        "Spanish and English."
+      ], 
+      "lccn": "sn97069121", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "mundo.", 
+      "oclc": "36528572"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1963, 
+      "publisher": "[The Diocese of Oakland]", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Biweekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn81001387.json", 
+      "id": "/lccn/sn81001387/", 
+      "subject": [
+        "California.--fast--(OCoLC)fst01204928", 
+        "Catholics--California--Newspapers.", 
+        "Catholics.--fast--(OCoLC)fst00849297"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Catholic voice /", 
+      "holding_type": [
+        "Microfilm Master"
+      ], 
+      "end_year": 9999, 
+      "alt_title": [], 
+      "note": [
+        "Also issued on microfilm by American Theological Library Association.", 
+        "Latest issue consulted: Vol. 41, no. 21 (Dec. 15, 2003).", 
+        "Master negatives are available for duplication from:"
+      ], 
+      "lccn": "sn81001387", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "catholic voice /", 
+      "oclc": "7491000"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1949, 
+      "publisher": "Oakland Revival Tabernacle", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Monthly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn93060270.json", 
+      "id": "/lccn/sn93060270/", 
+      "subject": [
+        "Evangleicalism--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Christian vanguard.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 3, no. 3 (Sept. 1951).", 
+        "Editor: Cecil J. Lowry."
+      ], 
+      "lccn": "sn93060270", 
+      "state": [
+        "Missouri"
+      ], 
+      "place": [
+        "Missouri--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "christian vanguard.", 
+      "oclc": "28517048"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1920, 
+      "publisher": "Walter Secord", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn99060622.json", 
+      "id": "/lccn/sn99060622/", 
+      "subject": [
+        "California--East Bay.--fast--(OCoLC)fst01272568", 
+        "Jewish newspapers--California--East Bay.", 
+        "Jewish newspapers.--fast--(OCoLC)fst00982872"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland menorah.", 
+      "holding_type": [
+        "Original"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "\"Devoted to the interests of the East Bay Communities.\"", 
+        "Description based on: Vol. 1, no. 47 (July 26, 1929)."
+      ], 
+      "lccn": "sn99060622", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland menorah.", 
+      "oclc": "41061490"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Or.", 
+      "start_year": 1890, 
+      "publisher": "H.J. Richmond", 
+      "county": [
+        "Douglas"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn00063500.json", 
+      "id": "/lccn/sn00063500/", 
+      "subject": [
+        "Oakland (Or.)--Newspapers.", 
+        "Oregon--Oakland.--fast--(OCoLC)fst01223382"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland observer.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Also issued on microfilm from University of Oregon.", 
+        "Description based on: Vol. 1, no. 30 (Apr. 10, 1891)."
+      ], 
+      "lccn": "sn00063500", 
+      "state": [
+        "Oregon"
+      ], 
+      "place": [
+        "Oregon--Douglas--Oakland"
+      ], 
+      "country": "Oregon", 
+      "type": "title", 
+      "title_normal": "oakland observer.", 
+      "oclc": "43291584"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Or.", 
+      "start_year": 1900, 
+      "publisher": "D.E. Vernon", 
+      "county": [
+        "Douglas"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn00063501.json", 
+      "id": "/lccn/sn00063501/", 
+      "subject": [
+        "Oakland (Or.)--Newspapers.", 
+        "Oregon--Oakland.--fast--(OCoLC)fst01223382"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland owl.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1910, 
+      "alt_title": [], 
+      "note": [
+        "Also issued on microfilm from University of Oregon.", 
+        "Description based on: Vol. 3, no. 26 (Nov. 14, 1902)."
+      ], 
+      "lccn": "sn00063501", 
+      "state": [
+        "Oregon"
+      ], 
+      "place": [
+        "Oregon--Douglas--Oakland"
+      ], 
+      "country": "Oregon", 
+      "type": "title", 
+      "title_normal": "oakland owl.", 
+      "oclc": "43291591"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Or.", 
+      "start_year": 1910, 
+      "publisher": "A.G. Carruth", 
+      "county": [
+        "Douglas"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn00063502.json", 
+      "id": "/lccn/sn00063502/", 
+      "subject": [
+        "Oakland (Or.)--Newspapers.", 
+        "Oregon--Oakland.--fast--(OCoLC)fst01223382"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland advance.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Master"
+      ], 
+      "end_year": 1919, 
+      "alt_title": [], 
+      "note": [
+        "Also issued on microfilm from University of Oregon.", 
+        "Latest issue consulted: 15th year, no. 23 (Aug. 14, 1914)."
+      ], 
+      "lccn": "sn00063502", 
+      "state": [
+        "Oregon"
+      ], 
+      "place": [
+        "Oregon--Douglas--Oakland"
+      ], 
+      "country": "Oregon", 
+      "type": "title", 
+      "title_normal": "oakland advance.", 
+      "oclc": "43291613"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1890, 
+      "publisher": "J.M. Bridges", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn84025837.json", 
+      "id": "/lccn/sn84025837/", 
+      "subject": [
+        "African American newspapers--California.", 
+        "African American newspapers.--fast--(OCoLC)fst00799278", 
+        "African Americans--California--Newspapers.", 
+        "African Americans.--fast--(OCoLC)fst00799558", 
+        "Alameda County (Calif.)--Newspapers.", 
+        "California--Alameda County.--fast--(OCoLC)fst01205577", 
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland sunshine.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Original", 
+        "Unspecified", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified", 
+        "Unspecified", 
+        "Online Resource", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [
+        "Sunshine"
+      ], 
+      "note": [
+        "Available on microfilm from the Library of Congress, Photoduplication Service.", 
+        "Description based on: Vol. 10, no. 52 (Dec. 21, 1907)."
+      ], 
+      "lccn": "sn84025837", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland sunshine.", 
+      "oclc": "10384635"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland [Calif.]", 
+      "start_year": 1860, 
+      "publisher": "Gagan & Watson", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn85025020.json", 
+      "id": "/lccn/sn85025020/", 
+      "subject": [
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland news.", 
+      "holding_type": [
+        "Original", 
+        "Microfilm Print Master"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 2, no. 38 (June 10, 1865).", 
+        "Master negatives are available for duplication from:"
+      ], 
+      "lccn": "sn85025020", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland news.", 
+      "oclc": "11546792"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Ill.", 
+      "start_year": 1875, 
+      "publisher": "Herald Print. Co.", 
+      "county": [
+        "Coles"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn90054034.json", 
+      "id": "/lccn/sn90054034/", 
+      "subject": [
+        "Illinois--Oakland.--fast--(OCoLC)fst01232972", 
+        "Oakland (Ill.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland herald.", 
+      "holding_type": [
+        "Microfilm Master", 
+        "Microfilm Service Copy", 
+        "Original", 
+        "Original"
+      ], 
+      "end_year": 1899, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 2, no. 9 (July 7, 1876).", 
+        "Latest issue consulted: May 4, 1877."
+      ], 
+      "lccn": "sn90054034", 
+      "state": [
+        "Illinois"
+      ], 
+      "place": [
+        "Illinois--Coles--Oakland"
+      ], 
+      "country": "Illinois", 
+      "type": "title", 
+      "title_normal": "oakland herald.", 
+      "oclc": "21028314"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, IA", 
+      "start_year": 1891, 
+      "publisher": "[W.E. Irons]", 
+      "county": [
+        "Pottawattamie"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92056110.json", 
+      "id": "/lccn/sn92056110/", 
+      "subject": [], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland news.", 
+      "holding_type": [
+        "Microfilm Service Copy"
+      ], 
+      "end_year": 1892, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 1, no. 35 (Sept. 25, 1891)."
+      ], 
+      "lccn": "sn92056110", 
+      "state": [
+        "Iowa"
+      ], 
+      "place": [
+        "Iowa--Pottawattamie--Oakland"
+      ], 
+      "country": "Iowa", 
+      "type": "title", 
+      "title_normal": "oakland news.", 
+      "oclc": "25176412"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Cal.", 
+      "start_year": 1868, 
+      "publisher": "S.W. Hardinge", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92068885.json", 
+      "id": "/lccn/sn92068885/", 
+      "subject": [
+        "Alameda County (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "Oakland Democrat.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 1, no. 5 (July 9, 1868)."
+      ], 
+      "lccn": "sn92068885", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland democrat.", 
+      "oclc": "26733722"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1929, 
+      "publisher": "A.A. Martin", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92069414.json", 
+      "id": "/lccn/sn92069414/", 
+      "subject": [
+        "African Americans--California--Newspapers.", 
+        "African Americans.--fast--(OCoLC)fst00799558", 
+        "Alameda County (Calif.)--Newspapers.", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "San Francisco County (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland independent.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 1, no. 11 (Oct. 19, 1929)."
+      ], 
+      "lccn": "sn92069414", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland independent.", 
+      "oclc": "26753645"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland, Calif.", 
+      "start_year": 1923, 
+      "publisher": "S.D. Moss", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92069418.json", 
+      "id": "/lccn/sn92069418/", 
+      "subject": [
+        "African Americans--California--Newspapers.", 
+        "African Americans.--fast--(OCoLC)fst00799558", 
+        "California--Oakland.--fast--(OCoLC)fst01206605", 
+        "California.--fast--(OCoLC)fst01204928", 
+        "Oakland (Calif.)--Newspapers."
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland times.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [], 
+      "lccn": "sn92069418", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland times.", 
+      "oclc": "26581537"
+    }, 
+    {
+      "essay": [], 
+      "place_of_publication": "Oakland [Calif.]", 
+      "start_year": 1860, 
+      "publisher": "S.B. English", 
+      "county": [
+        "Alameda"
+      ], 
+      "edition": null, 
+      "frequency": "Weekly", 
+      "url": "http://chroniclingamerica.loc.gov/lccn/sn92068830.json", 
+      "id": "/lccn/sn92068830/", 
+      "subject": [
+        "Alameda County (Calif.)--Newspapers.", 
+        "California--Alameda County.--fast--(OCoLC)fst01205577"
+      ], 
+      "city": [
+        "Oakland"
+      ], 
+      "language": [
+        "English"
+      ], 
+      "title": "The Oakland press.", 
+      "holding_type": [
+        "Microfilm Service Copy", 
+        "Unspecified", 
+        "Unspecified"
+      ], 
+      "end_year": 1999, 
+      "alt_title": [], 
+      "note": [
+        "Description based on: Vol. 1, no. 21 (May 28, 1863)."
+      ], 
+      "lccn": "sn92068830", 
+      "state": [
+        "California"
+      ], 
+      "place": [
+        "California--Alameda--Oakland"
+      ], 
+      "country": "California", 
+      "type": "title", 
+      "title_normal": "oakland press.", 
+      "oclc": "26574189"
+    }
+  ]
+}
