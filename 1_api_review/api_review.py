@@ -30,7 +30,8 @@ print(data['items'][0]['publisher'])
 print(data['items'][0]['start_year'])
 print(data['items'][0]['end_year'])
 
-
+### MB ###
+print(data['items'][0]['start_year'], data['items'][0]['end_year'])
 
 print('Challenge 2 -------------')
 # Challenge 2:
