@@ -89,7 +89,6 @@ for paper in oakland_ca_newspapers:
 print(len(valid_ca_newspapers))
 
 
-
 print('Challenge 5 -------------')
 # Challenge 5:
 # Only including the valid Oakland California newspapers, can you write code
@@ -97,10 +96,12 @@ print('Challenge 5 -------------')
 # publications lasted?
 # Hint: Maybe write in pseudocode first.
 
-
-
-
-
+total = 0
+for paper in valid_ca_newspapers:
+    time_in_years = paper['end_year'] - paper['start_year']
+    total += time_in_years
+average = total / len(valid_ca_newspapers)
+print('Average lifespan of newspapers:', average)
 
 print('-------------')
 # Bonus Challenge 1:
