@@ -82,6 +82,12 @@ print('Challenge 4 -------------')
 # 9999. Can you write another for loop that filters out these newspapers?
 valid_ca_newspapers = []
 
+for paper in oakland_ca_newspapers:
+    if paper['end_year'] != 9999:
+        valid_ca_newspapers.append(paper)
+
+print(len(valid_ca_newspapers))
+
 
 
 print('Challenge 5 -------------')
