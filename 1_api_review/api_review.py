@@ -62,9 +62,18 @@ print('Challenge 3 -------------')
 # Hint: One way is to check for the "County" field and get only the ones in
 # Alameda County, which is the county that contains Oakland, CA.
 # Hint: Maybe write in pseudocode first.
+
+### psuedocode ###
+# find oakland newspapers from Alameda County
+
 oakland_ca_newspapers = []
+newspapers = data['items']
 
-
+for newspaper in newspapers:
+    if newspaper['county'][0] == 'Alameda':
+        print(newspaper['publisher'])
+        print(newspaper['county'])
+        oakland_ca_newspapers.append(newspaper)
 
 
 print('Challenge 4 -------------')
