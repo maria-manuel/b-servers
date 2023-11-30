@@ -11,7 +11,14 @@ class RequestHandler(socketserver.StreamRequestHandler):
         print(request)
         print('--------------------------')
 
-        # (Bonus Challenge code goes here)
+        # (Bonus Challenge code goes here) = pseudocode of what happens
+
+        # If the request is only "/"
+        #    then, reply with homepage
+        # If the request contains like "/bio/"
+        #    then reply with a bio page
+        # If the request is something like "/about"
+        #    Then reply with an about page
 
         # Just say the same thing to all requests, the 200 OK reply required by
         # the HTTP protocol, then the text "Hello server world!"
