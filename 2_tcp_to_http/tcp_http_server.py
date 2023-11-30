@@ -43,8 +43,11 @@ class RequestHandler(socketserver.StreamRequestHandler):
 
 
 ###################################################################
-# NOTE: The rest of this file is some dense boilerplate that's not useful for
-# your learning to understand.
+# NOTE: Don't worry too much about the following. 
+# The rest of this file is some dense boilerplate that's not useful for
+# your learning to understand. 
+# It's just the Python code necessary to start the TCP server.
+
 if __name__ == "__main__":
     PORT = 8080
     server = None
