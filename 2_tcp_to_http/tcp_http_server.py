@@ -16,7 +16,7 @@ class RequestHandler(socketserver.StreamRequestHandler):
         # Just say the same thing to all requests, the 200 OK reply required by
         # the HTTP protocol, then the text "Hello server world!"
         self.wfile.write(b'HTTP/1.1 200 OK\n\n')
-        self.wfile.write(b'Hello Server World!')
+        self.wfile.write(b'Welcome to my homepage!')
 
         # Close off the connection ("hang up")
         self.wfile.close()
