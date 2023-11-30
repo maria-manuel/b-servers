@@ -15,8 +15,17 @@ class RequestHandler(socketserver.StreamRequestHandler):
 
         # If the request is only "/"
         #    then, reply with homepage
-        # If the request contains like "/bio/"
+        if request == "GET / HTTP/1.1":
+            self.wfile.write(b'HTTP/1.1 200 OK\n \n')
+            self.wfile.write(b'<h1>Welcome to my homepage!</h1>')
+            self.wfile.write(b'<p><a href="/about-me>Learn more about me</a></p>')
+            self.wfile.write(b'<p><a href="/contact-me">Send me an email</a></p>')
+        # If the request contains like "/about-me"
         #    then reply with a bio page
+        elif request == "GET /about-me HTTP/1.1":
+            self.wfile.write(b'HTTP/1.1 200 OK\n \n')
+            self.wfile.write(b'<h1>About me!</h1>')
+            self.wfile.write(b'<p>I am a coder</p>')
         # If the request is something like "/about"
         #    Then reply with an about page
 
