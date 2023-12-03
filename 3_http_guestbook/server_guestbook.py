@@ -10,6 +10,7 @@ def index():
     '''
 
 def about_me():
+    print('----- about me')
     return '''
         <h1>About me</h1>
         <p>My name is Ash Ketchum</p>
