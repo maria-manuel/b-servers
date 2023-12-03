@@ -7,6 +7,14 @@ def index():
         <h1>Welcome to my home page!</h1>
         <a href="/about-me">About me</a> <br />
         <a href="/contact">Contact me</a> <br />
+        <a href="/bio">Bio</a> <br />
+    '''
+
+def bio():
+    print('----- bio page')
+    return '''
+        <h1>This is my bio page</h1>
+
     '''
 
 def about_me():
@@ -45,6 +53,8 @@ class RequestHandler(socketserver.StreamRequestHandler):
             body = index()
         elif path == '/about-me':
             body = about_me()
+        elif path == '/bio':
+            body = bio()
         elif path.startswith('/contact'):
             body = contact_me(path)
         else:
