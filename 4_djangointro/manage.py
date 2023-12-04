@@ -1,6 +1,7 @@
 from django.urls import path
 from django.http import HttpResponse
 
+import random
 
 # View -- This function, called a "view", is the function that will accept an
 # incoming request, and return a response. In this case, it is just sending
@@ -18,6 +19,16 @@ def about_me(request):
     print('viewing about me')
     return HttpResponse('<h1>about me</h1>')
 
+def magic_8_ball(request):
+    messages = [
+        'You bet',
+        'Future looks good', 
+        'Not likely',
+        'Impossible',
+    ]
+    message = random.choice(messages)
+    return HttpResponse ('<h1>8 ball says: ' + message + '</h1>')
+
 
 # Routing -- This list is the list of "URL patterns" that Django will try, in
 # order, in order to match the incoming request to a function that will handle
@@ -26,6 +37,7 @@ urlpatterns = [
     # <--- HINT: One part of Challenge 3 goes here
     path('hello-world/', hello_world),
     path('about-me/', about_me),
+    path('magic8/', magic_8_ball),
 ]
 
 
