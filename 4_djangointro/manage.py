@@ -29,12 +29,22 @@ def magic_8_ball(request):
     message = random.choice(messages)
     return HttpResponse ('<h1>8 ball says: ' + message + '</h1>')
 
+def homepage(request):
+    print('viewing homepage')
+    return HttpResponse('''
+        <h1>Welcome to my homepage</h1>
+        <a href="about-me/">About me</a> <br/>
+        <a href="hello-world/">Hello world</a> <br/>
+        <a href="magic8/">magic 8 ball</a>
+    ''')
+
 
 # Routing -- This list is the list of "URL patterns" that Django will try, in
 # order, in order to match the incoming request to a function that will handle
 # it and return a response.
 urlpatterns = [
     # <--- HINT: One part of Challenge 3 goes here
+    path('', homepage),
     path('hello-world/', hello_world),
     path('about-me/', about_me),
     path('magic8/', magic_8_ball),
