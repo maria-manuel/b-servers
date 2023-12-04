@@ -8,10 +8,16 @@ from django.http import HttpResponse
 # send back any sort of response.
 def hello_world(request):
     # <--- HINT: Challenge 2 goes here
-    print('hey does this work')
+    print('viewing hello world')
     return HttpResponse('<h1>Hello Django World!</h1>')
 
 # <--- HINT: One part of Challenge 3 goes here
+
+def about_me(request):
+    # <--- HINT: Challenge 2 goes here
+    print('viewing about me')
+    return HttpResponse('<h1>about me</h1>')
+
 
 # Routing -- This list is the list of "URL patterns" that Django will try, in
 # order, in order to match the incoming request to a function that will handle
@@ -19,6 +25,7 @@ def hello_world(request):
 urlpatterns = [
     # <--- HINT: One part of Challenge 3 goes here
     path('hello-world/', hello_world),
+    path('about-me/', about_me),
 ]
 
 
