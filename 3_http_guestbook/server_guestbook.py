@@ -49,6 +49,24 @@ def contact_me(path):
         </form>
     '''
 
+# Challenge 5 - Implementing the guestbook below
+
+guestbook = [] # C6
+
+def contact_me(path):
+    print('---CONTACT ME')
+    print(path)
+    if '=' not in path:
+        name = ''
+    else:
+        # Challenge 5
+        other_crap, name = path.split('=')
+        print(name)
+
+        # Challenge 6
+        guestbook.append(name)
+        print(guestbook)
+
 class RequestHandler(socketserver.StreamRequestHandler):
     def handle(self):
         # Every time a request comes in, it calls this method

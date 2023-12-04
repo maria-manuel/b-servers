@@ -8,6 +8,7 @@ from django.http import HttpResponse
 # send back any sort of response.
 def hello_world(request):
     # <--- HINT: Challenge 2 goes here
+    print('hey does this work')
     return HttpResponse('<h1>Hello Django World!</h1>')
 
 # <--- HINT: One part of Challenge 3 goes here
