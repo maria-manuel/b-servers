@@ -8,6 +8,7 @@ def index():
         <a href="/about-me">About me</a> <br />
         <a href="/contact">Contact me</a> <br />
         <a href="/bio">Bio</a> <br />
+        <a href="/magic">Magic 8 ball</a> <br />
     '''
 
 def bio():
@@ -16,6 +17,17 @@ def bio():
         <h1>This is my bio page</h1>
 
     '''
+
+def magic_8_ball():
+    print('---magic8ball page being viewed')
+    messages = [
+        'You bet',
+        'Future looks good',
+        'Not likely',
+        'Impossible',
+    ]
+    message = random.choice(messages)
+    return '<h1>8 ball says: ' + message + '</h1>'
 
 def about_me():
     print('----- about me')
@@ -55,6 +67,8 @@ class RequestHandler(socketserver.StreamRequestHandler):
             body = about_me()
         elif path == '/bio':
             body = bio()
+        elif path == '/magic':
+            body = magic_8_ball()
         elif path.startswith('/contact'):
             body = contact_me(path)
         else:
